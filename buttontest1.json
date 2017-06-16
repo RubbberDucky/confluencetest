@@ -1,0 +1,26 @@
+{
+   "key": "com.atlassian.confluence.static.tutorial.local",
+   "name": "IT Spaces Button",
+   "version": "1.0",
+   "description": "IT Spaces Button",
+   "vendor": {
+      "name": "Dillon Craig",
+      "url": "http://www.DillonCraig.com"
+   },
+   "baseUrl": "https://github.com/RubbberDucky/confluencetest/",
+   "authentication": {
+      "type": "none"
+   },
+   "modules": {
+      "generalPages": [
+         {
+            "url": "https://sierraviewdev.atlassian.net/wiki/display/SWPRJ/Demo+Project+Home",
+            "key": "hello-world",
+            "location": "system.header/left",
+            "name": {
+               "value": "IT Spaces"
+            }
+         }
+      ]
+   }
+}
