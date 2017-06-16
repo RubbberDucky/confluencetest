@@ -13,7 +13,7 @@
    "modules": {
       "generalPages": [
          {
-            "url": "/SWPRJ",
+            "url": "/display/SWPRJ/Demo+Project+Home",
             "key": "The-Button",
             "location": "system.header/left",
             "name": {
