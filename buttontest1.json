@@ -1,7 +1,6 @@
 {
    "key": "com.atlassian.confluence.static.tutorial.local",
    "name": "IT Spaces Button",
-   "version": "1.0",
    "description": "IT Spaces Button",
    "vendor": {
       "name": "Dillon Craig",
@@ -14,7 +13,7 @@
    "modules": {
       "generalPages": [
          {
-            "url": "https://sierraviewdev.atlassian.net/wiki/display/SWPRJ/Demo+Project+Home",
+            "url": "/wiki/x/H4E",
             "key": "hello-world",
             "location": "system.header/left",
             "name": {
