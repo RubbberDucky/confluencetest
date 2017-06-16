@@ -1,5 +1,5 @@
 {
-   "key": "com.atlassian.confluence.static.tutorial.local",
+   "key": "IT-Spaces-Button",
    "name": "IT Spaces Button",
    "description": "IT Spaces Button",
    "vendor": {
@@ -13,8 +13,8 @@
    "modules": {
       "generalPages": [
          {
-            "url": "/wiki/x/H4E",
-            "key": "hello-world",
+            "url": "/SWPRJ",
+            "key": "The-Button",
             "location": "system.header/left",
             "name": {
                "value": "IT Spaces"
